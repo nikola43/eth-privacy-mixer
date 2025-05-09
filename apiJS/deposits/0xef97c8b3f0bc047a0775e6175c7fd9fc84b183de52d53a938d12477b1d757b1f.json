@@ -1,0 +1,18 @@
+{
+    "merkleRoot": "0xef97c8b3f0bc047a0775e6175c7fd9fc84b183de52d53a938d12477b1d757b1f",
+    "proofs": [
+        {
+            "address": "0xe4f3b01dF65c93C1415fDf6CE0bBF82935a5fb15",
+            "amount": "99000000000000000000000",
+            "date": "1746702414",
+            "proof": []
+        }
+    ],
+    "treeData": {
+        "leaves": [
+            "ef97c8b3f0bc047a0775e6175c7fd9fc84b183de52d53a938d12477b1d757b1f"
+        ],
+        "depth": 0
+    },
+    "totalAmount": "100000000000000000000000"
+}
